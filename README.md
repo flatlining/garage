@@ -1,6 +1,27 @@
 # Garare Sale
 
-Garage Sale
+This is my personal garage sale.
+
+> [!NOTE]
+> Make sure to ask questions, request review, and demos before making the purchase.
+
+> [!TIP]
+> There is a possibility of discount when buying more than one item in the same transaction, consult for values.
+
+> [!IMPORTANT]
+> All products here are used (not new) and sold "as is".  
+> If you have any questions make sure to ask them before the sale.
+
+> [!CAUTION]
+> All sales are final.  
+> Since the products are sold as used there is no warranty from the part of the seller,  
+> nor any commitment to provide support on warranty claims with the manufacturer.
+
+> [!TIP]
+> It is possible to request to review the product before the sale.  
+> Testing the products when possible is also allowed.  
+>
+> Keep in mind the some products might not support full test/review, e.g.: android tablets/chromebooks that require a complete setup will only support testing that they turn-on/initialize.
 
 ## Items
 
