@@ -8,3 +8,4 @@ Garage Sale
 - [Lenovo Tab M9 - Android Tablet](items/002-lenovo_tab_m9.md)
 - [Lenovo Ideapad Duet - Chromebook](items/003-lenovo_ideapad_duet.md)
 - [Vortex TAB75 - Mechanical Keyboard](items/004-vortex_tab75.md)
+- [Zeus-X Go Ultra 240W 6-in-1 - Universal Cable](items/005-zeus_x_go_ultra_50cm.md)
