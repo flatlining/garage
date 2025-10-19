@@ -30,3 +30,4 @@ This is my personal garage sale.
 - [Lenovo Ideapad Duet - Chromebook](items/003-lenovo_ideapad_duet.md)
 - [Vortex TAB75 - Mechanical Keyboard](items/004-vortex_tab75.md)
 - [Zeus-X Go Ultra 240W 6-in-1 - Universal Cable](items/005-zeus_x_go_ultra_50cm.md)
+- [YubiKey 5 NFC - USB-A](items/006-yubikey_5_nfc_usba.md)
