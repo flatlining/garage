@@ -2,6 +2,11 @@
 
 This is my personal garage sale.
 
+> [!TIP]
+> You can click 'Watch' on this repository to be notified of updates/new products.
+
+## Disclaimers
+
 > [!NOTE]
 > Make sure to ask questions, request review, and demos before making the purchase.
 
