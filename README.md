@@ -7,13 +7,13 @@ This is my personal garage sale.
 
 ## Items
 
-- [The North Face Jester - Backpack](items/001-the_north_face_jester.md)
-- [Lenovo Tab M9 - Android Tablet](items/002-lenovo_tab_m9.md)
-- [Lenovo Ideapad Duet - Chromebook](items/003-lenovo_ideapad_duet.md)
-- [Vortex TAB75 - Mechanical Keyboard](items/004-vortex_tab75.md)
-- [Zeus-X Go Ultra 240W 6-in-1 - Universal Cable](items/005-zeus_x_go_ultra_50cm.md)
-- [YubiKey 5 NFC - USB-A](items/006-yubikey_5_nfc_usba.md)
-- [YubiKey 5 NFC - USB-C](items/007-yubikey_5_nfc_usbc.md)
+- [The North Face Jester - Backpack](available/001-the_north_face_jester.md)
+- [Lenovo Tab M9 - Android Tablet](available/002-lenovo_tab_m9.md)
+- [Vortex TAB75 - Mechanical Keyboard](available/004-vortex_tab75.md)
+- [YubiKey 5 NFC - USB-A](available/006-yubikey_5_nfc_usba.md)
+- [YubiKey 5 NFC - USB-C](available/007-yubikey_5_nfc_usbc.md)
+- [Zeus-X Go Ultra 240W 6-in-1 - Universal Cable (keychain)](available/008-zeus_x_go_ultra_keychain.md)
+- [PowKiddy X55 - Retro Portable Console](available/009-powkiddy_x55.md)
 
 ## Disclaimers
 
