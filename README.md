@@ -12,6 +12,7 @@ This is my personal garage sale.
 - [Vortex TAB75 - Mechanical Keyboard](available/004-vortex_tab75.md)
 - [YubiKey 5 NFC - USB-A](available/006-yubikey_5_nfc_usba.md)
 - [YubiKey 5 NFC - USB-C](available/007-yubikey_5_nfc_usbc.md)
+- [Zeus-X Go Ultra 240W 6-in-1 - Universal Cable (keychain)](available/008-zeus_x_go_ultra_keychain.md)
 
 ## Disclaimers
 
